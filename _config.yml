@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: FlyLadder
 description: About our service
 show_downloads: false
+logo: /assets/logo.png
