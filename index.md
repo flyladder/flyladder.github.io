@@ -1,6 +1,6 @@
 ### About FlyLadder
 
-the ultimate solution for your online security and privacy needs. Our VPN service provides you with a secure and private internet connection, enabling you to browse the web and access online content with complete freedom and anonymity.
+The ultimate solution for your online security and privacy needs. Our VPN service provides you with a secure and private internet connection, enabling you to browse the web and access online content with complete freedom and anonymity.
 
 So why wait? Sign up for our VPN service today and experience the freedom and security of a truly private internet connection.
 
